@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/irfanalii.png" width="150" height="150" style="border-radius: 50%;" alt="Irfan Ali Avatar"/>
+  <img src="[https://github.com/irfanalii.png](https://avatars.githubusercontent.com/u/30261796?s=400&u=a2e3d13587912d43d0334ecb1fc9a1a7dc10db22&v=4)" width="150" height="150" style="border-radius: 50%;" alt="Irfan Ali Avatar"/>
   <h1>Hi, I'm Irfan Ali 👋</h1>
   <p><b>I am data dude who has found an interest in all things tech. Currently I am director Product Infra and AI at a SaaS company for heavy asset Industries | AI Agents| Context Engineering| Building Scalable Solutions | For Now</b></p>
 </div>
