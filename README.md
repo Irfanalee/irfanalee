@@ -1,39 +1,41 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/30261796" width="150" height="150" style="border-radius: 50%;" alt="Irfan Ali Avatar"/>
   <h1>Hi, I'm Irfan Ali 👋</h1>
-  <p><b>I am data dude who has found an interest in all things tech. Currently I am director Product Infra and AI at a SaaS company for heavy asset Industries | AI Agents| Context Engineering| Building Scalable Solutions | For Now</b></p>
+  <p><b>I am data dude who has found an interest in all things tech. Currently I am director Product Infra and AI at a SaaS company for heavy asset Industries</b></p>
+  <p><b>  AI Agents| Context Engineering| Building Scalable Solutions | Analyzing differnet AI models </b></p>
 </div>
 
 <br/>
 
-I build and ship working examples that solve real-world problems. 
+I build and ship working examples that solve real-world problems. Applied AI is my thing and gives me good vibes 
 
-Most of my work is hands-on but heavily influenced by agentic development: 
+Most of my work is hands-on but heavily influenced by agentic development. I pretend to be the big brother to whatever AI i am using. 
 
 I am passionate about AI and helping the developer community.
 
 ---
-[comment]: <> this is a commented part and will be updated in a bit 
+
 ### 🚀 What I work on
-* 🧠 **[Area 1]:** [Detail about what you build, e.g., AI Agents, Cloud Architecture]
-* 📦 **[Area 2]:** [Detail about your projects or open source work]
-* 🛠 **[Area 3]:** [Detail about your workflow or tools, e.g., DevOps pipelines]
-* 📱 **[Area 4]:** [Detail about specific tech, e.g., Android Security / Pentesting]
+* 🧠 **[Agents]:** Scalable and production ready agents that adds value and are not something good to have. 
+* 📦 **[MCP and A2A]:** De dumbing agents by making them work with a singular context
+* 🛠 **[IaC]:** An infrastructure that is secure, consistant, standardized, disaster proof and replicatble
+* 📱 **[Data Engineering]:** [Things that started it all - I still imagine application as ER diagrams - I know i am old]
 
 ### 👨‍💻 About Me
-* 💼 **Current Role:** [Your Job Title] at [Company Name]
-* 🎓 **Education:** [Your Degree/University]
-* 🔭 **Interests:** [Interest 1], [Interest 2], and [Interest 3]
+* 💼 **Current Role:** [Director Infrastructure - AI scalability] 
+* 🎓 **Education:** [Bachelors in Software , Master in Business Administration and PhD form the streets]
+* 🔭 **Interests:** [vibe coding], [Pizzas (from flour to pie)], and [Movies]
 
 ---
 
 ### 📢 Latest from LinkedIn
-#### 1. [Title of your Last Post]
-> *"[Paste a short summary or the first sentence of your post here...]"*
+#### 1. [Gemini up for a spin]
+> *"[Just Built: An AI-Powered "Agentic" Video Editor with Google Gemini!
+So my timeline has been abuzz with hashtag#Gemini3 and how awesome is it. Take the word or try it out ? I was inclined to try it out. ]"*
 [**Read the full post on LinkedIn**](https://www.linkedin.com/in/irfanalii/)
 
-#### 2. [Title of your Second to Last Post]
-> *"[Paste a short summary or the first sentence of your post here...]"*
+#### 2. [Agents as employees]
+> *"[I hired a team for my personal project but its not a traditional team. No contractors. Just me + 6 specialized AI agents, named after some of the best (real)people i have worked with in my career.]"*
 [**Read the full post on LinkedIn**](https://www.linkedin.com/in/irfanalii/)
 
 ---
