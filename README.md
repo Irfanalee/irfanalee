@@ -20,6 +20,7 @@ I am passionate about AI and helping the developer community.
 * 📦 **MCP and A2A:** De dumbing agents by making them work with a singular context
 * 🛠 **IaC:** An infrastructure that is secure, consistant, standardized, disaster proof and replicatble
 * 📱 **Data Engineering:** Things that started it all - I still imagine application as ER diagrams - I know i am old
+* ✨ **Fine Tuning:** Early stage in Finetuning LLM's 
 
 ### 👨‍💻 About Me
 * 💼 **Current Role:** Director Prodict - Infrastructure - AI scalability 
