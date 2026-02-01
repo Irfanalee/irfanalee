@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/30261796" width="150" height="150" style="border-radius: 50%;" alt="Irfan Ali Avatar"/>
-  <h1>Hi, I'm Irfan Ali 👋</h1>
+  <h1>Hello there !!! 👋</h1>
   <p><b>I am data dude who has found an interest in all things tech. Currently I am director Product Infra and AI at a SaaS company for heavy asset Industries</b></p>
   <p><b>  AI Agents | Context Engineering | Building Scalable Solutions | Analyzing differnet AI models </b></p>
 </div>
@@ -24,7 +24,7 @@ I am passionate about AI and helping the developer community.
 
 ### 👨‍💻 About Me
 * 💼 **Current Role:** Director Prodict - Infrastructure - AI scalability 
-* 🎓 **Education:** Bachelors in Software , Master in Business Administration and PhD form the streets
+* 🎓 **Education:** Bachelors in Software , Master in Business Administration and PhD from the streets
 * 🔭 **Interests:** vibe coding, Pizzas (from flour to pie), Wilderness, and Movies
 
 ---
