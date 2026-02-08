@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://gemini.google.com/share/a0d104997f94" width="150" height="150" style="border-radius: 50%;" alt="Irfan Ali Avatar"/>
+  <img src="[https://gemini.google.com/share/a0d104997f94](https://photos.app.goo.gl/ByFEcTA9Yb3WmddNA)" width="150" height="150" style="border-radius: 50%;" alt="Irfan Ali Avatar"/>
   <h1>Hello there !!! 👋</h1>
   <p><b>I am data dude who has found an interest in all things tech. Currently I am director Product Infra and AI at a SaaS company for heavy asset Industries</b></p>
   <p><b>  Finetuning AI Models | AI Agents | Context Engineering | Building Scalable Solutions | Analyzing differnet AI models </b></p>
