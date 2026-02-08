@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/30261796" width="150" height="150" style="border-radius: 50%;" alt="Irfan Ali Avatar"/>
   <h1>Hello there !!! 👋</h1>
   <p><b>I am data dude who has found an interest in all things tech. Currently I am director Product Infra and AI at a SaaS company for heavy asset Industries</b></p>
-  <p><b>  AI Agents | Context Engineering | Building Scalable Solutions | Analyzing differnet AI models </b></p>
+  <p><b>  Finetuning AI Models | AI Agents | Context Engineering | Building Scalable Solutions | Analyzing differnet AI models </b></p>
 </div>
 
 <br/>
@@ -16,11 +16,12 @@ I am passionate about AI and helping the developer community.
 ---
 
 ### 🚀 What I work on
+* ✨ **FineTuning LLM:** Finetunning Open Models that works with agents and solves real world problems. I have a huggingface profile with same handle
 * 🧠 **Agents:** Scalable and production ready agents that adds value and are not something good to have. 
 * 📦 **MCP and A2A:** De dumbing agents by making them work with a singular context
 * 🛠 **IaC:** An infrastructure that is secure, consistant, standardized, disaster proof and replicatble
 * 📱 **Data Engineering:** Things that started it all - I still imagine application as ER diagrams - I know i am old
-* ✨ **Fine Tuning:** Early stage in Finetuning LLM's 
+
 
 ### 👨‍💻 About Me
 * 💼 **Current Role:** Director Prodict - Infrastructure - AI scalability 
