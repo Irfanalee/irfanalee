@@ -67,17 +67,8 @@ The discipline that started everything. I still model every system as an ER diag
 - 💼 **Current role:** Director, Product Infrastructure & AI — SaaS, heavy asset industries
 - 🎓 **Education:** BSc Software Engineering · MBA · PhD from the streets 😄
 - 🔭 **Outside work:** 🍕 Pizza from scratch · 🌲 Wilderness · 🎬 Film · 💻 Vibe coding
-- 🛠️ **Open source:** [github.com/irfanalii](https://github.com/irfanalii) · [huggingface/irfanalii](https://huggingface.co/irfanalii)
+- 🛠️ **Open source:** [Here](https://github.com/irfanalee) · [hf/irfanalee](https://huggingface.co/irfanalee)
 
----
-
-### 📢 Recent writing
-
-**[🎬 Testing Gemini 2.5 Pro as an agentic video editor — what actually happened](https://www.linkedin.com/in/irfanalii/)**
-The timeline was full of hype. I built something instead. An honest account of what the model can and cannot do in a real agentic workflow.
-
-**[👥 I staffed my side project with six AI agents named after real colleagues](https://www.linkedin.com/in/irfanalii/)**
-No contractors. No employees. Just me and a team of specialized agents, each designed to embody the working style of the best people I have worked with.
 
 ---
 
@@ -88,5 +79,9 @@ No contractors. No employees. Just me and a team of specialized agents, each des
   &nbsp;
   <a href="https://github.com/irfanalii" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+  </a>
+   &nbsp;
+  <a href="https://huggingface.co/irfanalee" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="Follow on HF"/>
   </a>
 </div>
