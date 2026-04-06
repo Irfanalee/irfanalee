@@ -67,16 +67,12 @@ The discipline that started everything. I still model every system as an ER diag
 - 💼 **Current role:** Director, Product Infrastructure & AI — SaaS, heavy asset industries
 - 🎓 **Education:** BSc Software Engineering · MBA · PhD from the streets 😄
 - 🔭 **Outside work:** 🍕 Pizza from scratch · 🌲 Wilderness · 🎬 Film · 💻 Vibe coding
-- 🛠️ **Open source:** [Here](https://github.com/irfanalee) · [hf/irfanalee](https://huggingface.co/irfanalee)
+- 🛠️ **Open source:** [PyPi](https://pypi.org/project/concadptr/) · [Here](https://github.com/irfanalee) · [hf/irfanalee](https://huggingface.co/irfanalee)
 
 
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/irfanalii/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-  </a>
-  &nbsp;
   <a href="https://github.com/irfanalii" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
   </a>
